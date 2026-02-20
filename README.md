@@ -51,3 +51,5 @@ credentials::set_github_pat("YourPAT")
 
 You should now be able to push to and pull from github.
 
+
+Inspired by https://gist.github.com/Z3tt/3dab3535007acf108391649766409421  among others.
